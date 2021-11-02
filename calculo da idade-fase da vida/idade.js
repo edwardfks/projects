@@ -26,7 +26,7 @@ function idade () {
         resultado.textContent = `${nome} ve tem  ${numIdade} de idade e você está ${classificacao}`;
         
     }else {
-        resultado.textContent = 'Há campos incompletos';
+        resultado.textContent = 'Há campos incompletos!';
     }
 
 }
